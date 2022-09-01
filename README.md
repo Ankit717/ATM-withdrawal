@@ -1,2 +1,2 @@
 # ATM-withdrawal-system
-# Can-check-bank-balance-credit-and-debit-details-using-telegram-bot
+# Can-check-bank-balance-and-credit-debit-details-using-telegram-bot
